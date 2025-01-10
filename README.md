@@ -1,5 +1,7 @@
 # World_Health_Organization_Suicide_Rate_Analysis_Power_BI
 This data analysis project uses Power BI to provide insightful dashboards and reports to aid in the prevention of suicidal factors and the reduction of suicide rates.
+I analyzed and presented a dataset provided by the World Health Organization (W.H.O.) on global suicide rates. The dataset consists of key variables, including Country, Year, Sex, Number of Suicides, Populations, Suicides per 100 thousand population, GDP, GDP per capita, and Generations, I executed a comprehensive analysis using Microsoft Power BI and presented my findings based on specific queries. 
+
 
 ## Dataset:   
 <a href="https://1drv.ms/x/c/61463550dfbf1fe0/EW3wdsJrIX5OrBJoiA_qNBoBaaeg4X4KGvjfrE0Vj820uw?e=JlD6aZ">Suicide_Rate_Data</a>  
@@ -20,7 +22,7 @@ This data analysis project uses Power BI to provide insightful dashboards and re
 
 •Trends Over Time (1985-2016): Suicide rates observed an upward trend from 116,063 in 1985 to peak at 246,725 in 1996, followed by fluctuations and a steep decline to 15,603 by 2016. 
 
--Correlation between Suicide rate and GDP per Capital: The analysis indicated an inverse correlation between GDP per capita and suicide rates; as GDP per capita increased, suicide rates showed a general decrease.
+•Correlation between Suicide rate and GDP per Capital: The analysis indicated an inverse correlation between GDP per capita and suicide rates; as GDP per capita increased, suicide rates showed a general decrease.
 
 ## Dashboards
 
@@ -31,13 +33,13 @@ This data analysis project uses Power BI to provide insightful dashboards and re
 ## Proposed Solutions:  
 Based on these findings, I recommend the following actions.
 
-- Global Mental Health Campaigns: Launch awareness programs to reduce stigmatization promote mental health support and encourage individuals to seek professional help.
+• Global Mental Health Campaigns: Launch awareness programs to reduce stigmatization promote mental health support and encourage individuals to seek professional help.
 
-- Improved Mental Health Services: Telehealth services should be expanded to make mental support more accessible, particularly for people in remote or rural areas.
+• Improved Mental Health Services: Telehealth services should be expanded to make mental support more accessible, particularly for people in remote or rural areas.
 
--Regulation of Harmful Materials: Implement policies to limit access to common methods of suicide, such as firearms, pesticides, and medications.
+• Regulation of Harmful Materials: Implement policies to limit access to common methods of suicide, such as firearms, pesticides, and medications.
 
--Economic and Social Policies: Develop policies that promote job growth, economic stability, and financial security to reduce economic stressors that can contribute to suicidal thoughts. 
+• Economic and Social Policies: Develop policies that promote job growth, economic stability, and financial security to reduce economic stressors that can contribute to suicidal thoughts. 
 
 
 
